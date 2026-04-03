@@ -81,5 +81,3 @@ Finalmente agregar la configuracion del MCP de draw.io, el archivo de configurac
 Reiniciar Claude, en la configuracion se deberia ver como resultado algo similar a la imagen siguiente:
 
 ![alt resutado esperado](image.png)
-
-
