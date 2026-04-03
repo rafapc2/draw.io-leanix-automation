@@ -89,7 +89,7 @@ Reiniciar Claude, en la configuracion se deberia ver como resultado algo similar
 #### Cómo usar este prompt
 
 - Copia el prompt completo
-- Reemplaza [NOMBRE DEL DIAGRAMA] con el nombre exacto del diagrama en LeanIX (por ejemplo: "Integración Online Alto Nivel 2025")
+- Reemplaza [NOMBRE DEL DIAGRAMA] con el nombre exacto del diagrama en LeanIX (por ejemplo: "Integración Online experiencia Banco Digital")
 - Pégalo en Claude en una conversación donde tengas activos los MCPs de LeanIX y draw.io
 - Claude ejecutará los 7 pasos automáticamente y abrirá el resultado en draw.io
 
