@@ -81,3 +81,21 @@ Finalmente agregar la configuracion del MCP de draw.io, el archivo de configurac
 Reiniciar Claude, en la configuracion se deberia ver como resultado algo similar a la imagen siguiente:
 
 ![alt resutado esperado](image.png)
+
+### Los Pasos 3 a 6 se ejecutan pero usando este prompt
+
+[Ejemplo prompt template: Prompt-template.md](Prompt-template.md)
+
+#### Cómo usar este prompt
+
+- Copia el prompt completo
+- Reemplaza [NOMBRE DEL DIAGRAMA] con el nombre exacto del diagrama en LeanIX (por ejemplo: "Integración Online Alto Nivel 2025")
+- Pégalo en Claude en una conversación donde tengas activos los MCPs de LeanIX y draw.io
+- Claude ejecutará los 7 pasos automáticamente y abrirá el resultado en draw.io
+
+#### Requisitos previos para quien use el prompt
+
+- Tener el MCP de LeanIX configurado y conectado
+- Tener el MCP de draw.io instalado localmente
+Conocer el nombre exacto del diagrama en LeanIX (pueden buscarlo con el listado de diagramas)
+
